@@ -7,8 +7,8 @@ import { Input } from "../catalyst/input";
 
 export default function HomeJastip() {
   return (
-    <div className="flex flex-col justify-center items-center h-full w-full bg-red-500">
-        <Input className="bg-blue-500" />
+    <div className="flex flex-col justify-center items-center h-full w-full">
+        <Input  />
     </div>
   );
 }
